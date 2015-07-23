@@ -1,0 +1,13 @@
+<map version="1.0.0"><node ID="5D974781-8606-469A-A1CD-C2E07A6481E3" BACKGROUND_COLOR="#FFFFFF" TEXT="FM Laravel" COLOR="#526337" POSITION="right" STYLE="bubble"><edge COLOR="#ADD424" WIDTH="2" /><font NAME="HelveticaNeue-Medium" SIZE="18" /><node ID="AF0A7A95-AE23-4AD5-938A-7037CA70DF87" TEXT="Presenter" COLOR="#46443C" POSITION="right" STYLE="fork"><edge COLOR="#2FAEA1" WIDTH="6" /><font NAME="HelveticaNeue-Light" SIZE="21" /><node ID="736A6AC4-C290-4979-8014-58C4F65078E5" TEXT="Andrew Morgan" COLOR="#46443C" POSITION="right" STYLE="fork"><edge COLOR="#2FAEA1" WIDTH="5" /><font NAME="HelveticaNeue-Light" SIZE="21" /><node ID="A5E849F4-F5C0-4437-B01A-52CABA24A0D0" TEXT="http://andrewmorgan.me/" COLOR="#46443C" POSITION="right" STYLE="fork"><edge COLOR="#2FAEA1" WIDTH="4" /><font NAME="HelveticaNeue-Light" SIZE="21" /></node>
+<node ID="CAE6189E-8C0F-43A3-B407-D24223137B15" TEXT="https://github.com/andrewmile/FMLaravel" COLOR="#46443C" POSITION="right" STYLE="fork"><edge COLOR="#2FAEA1" WIDTH="4" /><font NAME="HelveticaNeue-Light" SIZE="21" /></node>
+</node>
+</node>
+<node ID="DFEA9FB9-D6AE-44CC-B0C0-F6CFD84645CB" TEXT="What problem is it trying to solve?" COLOR="#46443C" POSITION="right" STYLE="fork"><edge COLOR="#3CA43B" WIDTH="6" /><font NAME="HelveticaNeue-Light" SIZE="21" /><node ID="7C7FF156-71C9-4DB6-A6C4-7E9542CFC9FF" TEXT="Connect FileMaker to a more modern web framework." COLOR="#46443C" POSITION="right" STYLE="fork"><edge COLOR="#3CA43B" WIDTH="5" /><font NAME="HelveticaNeue-Light" SIZE="21" /></node>
+</node>
+<node ID="8F182545-74D5-443B-AA39-A71F96A2C2FD" TEXT="&#60;demo unrecorded&#62;" COLOR="#46443C" POSITION="right" STYLE="fork"><edge COLOR="#2289AC" WIDTH="6" /><font NAME="HelveticaNeue-Light" SIZE="21" /></node>
+<node ID="F09D2DA3-48E6-4B04-8673-B82214C02F00" TEXT="Next steps" COLOR="#46443C" POSITION="right" STYLE="fork"><edge COLOR="#E7514C" WIDTH="6" /><font NAME="HelveticaNeue-Light" SIZE="21" /><node ID="74F2EEEB-A985-4BD1-A397-7F4173E27F27" TEXT="Andrew will be writing documentation" COLOR="#46443C" POSITION="right" STYLE="fork"><edge COLOR="#E7514C" WIDTH="5" /><font NAME="HelveticaNeue-Light" SIZE="21" /></node>
+<node ID="8EAAF15D-3E89-4031-8ABA-59480F98A11A" TEXT="Submit feature requests as Issues in Github?" COLOR="#46443C" POSITION="right" STYLE="fork"><edge COLOR="#E7514C" WIDTH="5" /><font NAME="HelveticaNeue-Light" SIZE="21" /></node>
+<node ID="35D4A72D-8C44-4188-AA6D-05B7E662B17B" TEXT="If want to add a feature or fix something, pull requests OK" COLOR="#46443C" POSITION="right" STYLE="fork"><edge COLOR="#E7514C" WIDTH="5" /><font NAME="HelveticaNeue-Light" SIZE="21" /></node>
+</node>
+</node>
+</map>
